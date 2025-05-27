@@ -12,10 +12,10 @@
     <li><a href="https://my-84.github.io/literacy/lists.html">lists.html</a></li>
   </ul>
 
+</body>
 <!--
   <style>
   h3 {
     height: 20px;
   </style>
-</body>
 -->
