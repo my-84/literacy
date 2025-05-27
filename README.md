@@ -9,6 +9,7 @@
     <li><a href="https://my-84.github.io/literacy/link.html">link.html</a></li>
     <li><a href="https://my-84.github.io/literacy/image.html">image.html</a></li>
     <li><a href="https://my-84.github.io/literacy/ccimage.html">ccimage.html</a></li>
+    <li><a href="https://my-84.github.io/literacy/lists.html">lists.html</a></li>
   </ul>
 
 <!--
