@@ -1,5 +1,4 @@
 # literacy
-<!DOCTYPE HTML>
 <html lang=ja>
 <body>
 
