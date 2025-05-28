@@ -2,8 +2,6 @@
 <html lang="ja">
 <head>
     
-  <link rel="stylesheet" href="https://my-84.github.io/literacy/stylesheet.css" type="text/css">
-
 </head>
 <body>
 
