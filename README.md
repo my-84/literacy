@@ -1,5 +1,10 @@
 <!DOCTYPE HTML>
-<html lang=ja>
+<html lang="ja">
+<head>
+    
+  <link rel="stylesheet" href="https://my-84.github.io/literacy/stylesheet.css" type="text/css">
+
+</head>
 <body>
 
   <h1>literacy</h1>
