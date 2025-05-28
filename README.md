@@ -1,5 +1,3 @@
-# LITERACY
-<html lang="ja">
 <body>
 
   <h1>literacy</h1>
