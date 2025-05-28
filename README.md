@@ -1,7 +1,8 @@
-# literacy
+<!DOCTYPE HTML>
 <html lang=ja>
 <body>
 
+  <h1>literacy</h1>
   <p>Using in <b>情報リテラシ</b> class by <b>高度応用情報科学科</b>.</p>
   <h3>Contents</h3>
   <ul>
