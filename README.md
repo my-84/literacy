@@ -1,6 +1,3 @@
-<head>
-    
-</head>
 <body>
 
   <h1>literacy</h1>
