@@ -1,7 +1,8 @@
 <!DOCTYPE HTML>
 <HTML lang="ja">
 <head>
-    
+    <meta charset="UTF-8">
+    <link rel="icon" href=35th_ico1.jpg>
 </head>
 <body>
 
