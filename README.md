@@ -1,3 +1,8 @@
+<!DOCTYPE HTML>
+<HTML lang="ja">
+<head>
+    
+</head>
 <body>
 
   <h1>literacy</h1>
