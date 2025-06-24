@@ -17,6 +17,8 @@
     <li><a href="https://my-84.github.io/literacy/ccimage.html">ccimage.html</a></li>
     <li><a href="https://my-84.github.io/literacy/lists.html">lists.html</a></li>
     <li><a href="https://my-84.github.io/literacy/home.html">home.html</a></li>
+    <li><a href="https://my-84.github.io/literacy/table.html">table.html</a></li>
+    <li><a href="https://my-84.github.io/literacy/valid.html">valid.html</a></li>
   </ul>
 
 </body>
